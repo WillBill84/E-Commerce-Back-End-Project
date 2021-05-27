@@ -10,9 +10,13 @@ Back end for an e-commerce site that uses Express.js API and Sequelize to intera
 ## Installation and Usage
 
 • Install NPM dependencies before running application. (express, sequelize and mysql2)
+
 • To connect to the database run mysql -u root -p and enter password from .env file. Then run: source db/schema.sql
+
 • To seed the file run: npm run seed
+
 • run from terminal using npm start
+
 • Use Insomnia core or Postman to GET, POST, PUT and DELETE from the different routes.
 
 
